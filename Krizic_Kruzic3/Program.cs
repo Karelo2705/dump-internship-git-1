@@ -10,7 +10,7 @@ namespace Krizic_Kruzic3
             Console.WriteLine("Karlo ima z pobjeda i n poraza!");
 
             Console.WriteLine("   |   | X ");
-            Console.WriteLine("   |   |   ");
+            Console.WriteLine("   | O |   ");
             Console.WriteLine("   |   |   ");
         }
     }
