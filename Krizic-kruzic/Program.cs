@@ -11,7 +11,8 @@ namespace Krizic_kruzic
 
             Console.WriteLine("   |   |   ");
             Console.WriteLine("   | X |   ");
-            Console.WriteLine("   |   |   ");
+            Console.WriteLine("   |   | O ");
+
         }
     }
 }

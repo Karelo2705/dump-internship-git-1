@@ -9,7 +9,7 @@ namespace Krizic_Kruzic3
             Console.WriteLine("Mirna ima x pobjeda i y poraza!");
             Console.WriteLine("Karlo ima z pobjeda i n poraza!");
 
-            Console.WriteLine("   |   |   ");
+            Console.WriteLine(" O |   |   ");
             Console.WriteLine("   |   |   ");
             Console.WriteLine("   | X |   ");
         }
